@@ -28,7 +28,7 @@ function Introduction() {
       </div>
       <div className="relative z-10 flex flex-col items-center justify-center text-white">
         <h1 className="m-6 text-4xl sm:text-6xl font-text font-bold">Rebajas de Fin de Temporada</h1>
-        <p className="sm:text-2xl text-xl m-6 font-text">¡Todas las bikinis con un 50% de descuento!</p>
+        <p className="sm:text-2xl text-xl m-6 font-text">¡Todos los bikinis con un 50% de descuento!</p>
         <div className="mt-4">
           <Button />
         </div>
